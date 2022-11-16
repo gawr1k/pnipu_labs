@@ -8,7 +8,7 @@ class HelloWorld {
             int N = Int32.Parse(args[0]);
             int num = 20;
             for (int i = 1; i <=N; i++) {
-                num += 2 / 2;
+                num += 2 / i;
             }Console.WriteLine(num);
             return 0;
         }
