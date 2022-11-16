@@ -1,0 +1,15 @@
+/Users/wikiwoo/pnipu_labs/home/home/bin/Debug/net7.0/home
+/Users/wikiwoo/pnipu_labs/home/home/bin/Debug/net7.0/home.deps.json
+/Users/wikiwoo/pnipu_labs/home/home/bin/Debug/net7.0/home.runtimeconfig.json
+/Users/wikiwoo/pnipu_labs/home/home/bin/Debug/net7.0/home.dll
+/Users/wikiwoo/pnipu_labs/home/home/bin/Debug/net7.0/home.pdb
+/Users/wikiwoo/pnipu_labs/home/home/obj/Debug/net7.0/home.csproj.AssemblyReference.cache
+/Users/wikiwoo/pnipu_labs/home/home/obj/Debug/net7.0/home.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wikiwoo/pnipu_labs/home/home/obj/Debug/net7.0/home.AssemblyInfoInputs.cache
+/Users/wikiwoo/pnipu_labs/home/home/obj/Debug/net7.0/home.AssemblyInfo.cs
+/Users/wikiwoo/pnipu_labs/home/home/obj/Debug/net7.0/home.csproj.CoreCompileInputs.cache
+/Users/wikiwoo/pnipu_labs/home/home/obj/Debug/net7.0/home.dll
+/Users/wikiwoo/pnipu_labs/home/home/obj/Debug/net7.0/refint/home.dll
+/Users/wikiwoo/pnipu_labs/home/home/obj/Debug/net7.0/home.pdb
+/Users/wikiwoo/pnipu_labs/home/home/obj/Debug/net7.0/home.genruntimeconfig.cache
+/Users/wikiwoo/pnipu_labs/home/home/obj/Debug/net7.0/ref/home.dll
